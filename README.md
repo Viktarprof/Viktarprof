@@ -16,7 +16,7 @@
   </a>
 </div>
 
-- 📫 You can write me an email: kaloshaviktor1@*mail*com
+- 📫 You can write me an email: kaloshaviktor1@*mail**com
 
 <!---
 Viktarprof/Viktarprof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
