@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/feed/?midToken=AQHAvn96U_lqMA&trk=eml-email_jobs_viewed_job_reminder_01-header-53-home&trkEmail=eml-email_jobs_viewed_job_reminder_01-header-53-home-null-a53tjw%7Eja013nno%7Edr-null-neptune%2Ffeed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://www.linkedin.com/feed/?midToken=AQHAvn96U_lqMA&trk=eml-email_jobs_viewed_job_reminder_01-header-53-home&trkEmail=eml-email_jobs_viewed_job_reminder_01-header-53-home-null-a53tjw%7Eja013nno%7Edr-null-neptune%2Ffeed">
+    <img src="https://img.shields.io/badge/Tg-blue?style=for-the-badge&logo=Tg&logoColor=white" alt="Tg Badge"/>
+  </a>
 </div>
 
 - 📫 You can write me an email: kaloshaviktor1@*mail**com
