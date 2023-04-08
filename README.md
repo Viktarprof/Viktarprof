@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-- 📫 You can write me an email: kaloshaviktor1@*mail**com
+- 📫 You can write me an email: kaloshaviktor1@gmail.com
 
 <!---
 Viktarprof/Viktarprof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
