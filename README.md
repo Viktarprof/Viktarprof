@@ -5,7 +5,6 @@
 
 
 - 👋 Hi, I’m Viktor!
-- 👀 I'm interested in a lot of things. I want to be useful, so I grow and develop. My life position is: responsibility.
 - 🌱 I’m currently learning at school TelRan. Direction Front End.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
