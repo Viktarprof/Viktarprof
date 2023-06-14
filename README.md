@@ -24,11 +24,12 @@
 [![MySql](https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=mysql)](https://github.com/Viktarprof?tab=repositories)
 
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad](https://github.com/Viktarprof?tab=repositories))
-[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/wervlad](https://github.com/Viktarprof?tab=repositories))
-[![Redux](https://img.shields.io/badge/Redux_Toolkit-black?style=for-the-badge&logo=reduxToolkit)](https://github.com/wervlad](https://github.com/Viktarprof?tab=repositories))
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad](https://github.com/Viktarprof?tab=repositories))
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad](https://github.com/Viktarprof?tab=repositories)
+[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/wervlad](https://github.com/Viktarprof?tab=repositories)
+[![Redux](https://img.shields.io/badge/Redux_Toolkit-black?style=for-the-badge&logo=reduxToolkit)](https://github.com/wervlad](https://github.com/Viktarprof?tab=repositories)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad](https://github.com/Viktarprof?tab=repositories)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Viktarprof?tab=repositories)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)](https://github.com/Viktarprof?tab=repositories)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Viktarprof?tab=repositories)
 
 ### OS
